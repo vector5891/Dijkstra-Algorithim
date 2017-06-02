@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/DijkstrasAlgorithm.dir/main.cpp.o  -o DijkstrasAlgorithm 

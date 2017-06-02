@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dzou/CLionProjects/DijkstrasAlgorithm/main.cpp
+iostream
+-
+list
+-
+bitset
+-
+algorithm
+-
+vector
+-
+iterator
+-
+
